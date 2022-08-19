@@ -1,1 +1,1 @@
-This is the code for thesis of MSc Applied Genomics
+# This is the code for thesis of MSc Applied Genomics
